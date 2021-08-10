@@ -8,6 +8,7 @@ import (
 	"github.com/Logiase/MiraiGo-Template/config"
 	"github.com/Logiase/MiraiGo-Template/utils"
 
+	_ "github.com/Logiase/MiraiGo-Template/modules/keyWordsReply"
 	_ "github.com/Logiase/MiraiGo-Template/modules/logging"
 )
 
